@@ -6,7 +6,9 @@ Este proyecto
 1. 
 
 3.Número de Airbnb activos registrados por barrio:
+
   | Barrio | No. registros |
+  |--------|---------------|
   |  28806 |      741      |
   |  28801 |      564      |
   |  28803 |      422      |
