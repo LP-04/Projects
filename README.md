@@ -37,7 +37,10 @@ Este proyecto tiene como proposito analizar el crecimiento o decaimiento en el u
 
 
 ### Análisis de Reseña y Demanda
-- Total de reseñas por Airbnb registrado:
+- Los Airbnb **Basement: Mountainside Private Room & Private Bath** con codigo postal 28803 y **Perry's Home Studio South** con codigo postal 28805 tienen un total de 1448 y 1 reseñas, siendo el mayor y menor reseñado respectivamente.
+- El promedio de reseñas por mes es de aproximadamente 2, con algunos lugares llegando a tener 2 hasta incluso 0 reseñas por mes.
+- Los datos muestran una disminución en la demanda desde el 2019 hata el 2020 producto de la pandemia por COVID-19, luego un aumento desde el 2020 al 2023 y de nuevo una disminución en los ultimos 2 años.
+- Los meses como Julio y Octubre muestran un mayor pico en demanda, en cambio desde Noviembre hasta Febrero hay una disminución en la demanda especialmente en meses como Enero y Febrero.
   
 
 
