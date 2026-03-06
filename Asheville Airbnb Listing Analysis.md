@@ -10,11 +10,12 @@ Este proyecto tiene como proposito analizar el crecimiento o decaimiento en el u
 
 
 ### Análisis Descriptivo
-2. Los Airbnb se clasifican en 4 tipos: Habitación/Apt completo, Habitación de hotel, Habitación compartida y Habitación privada.
+1. Los Airbnb por noche tienen un precio promedio de $158 y una mediana (valor central entre todos los precios) de $128.
+2. Los Airbnb se clasifican en 4 tipos: Casa/Apt completo, Habitación de hotel, Habitación compartida y Habitación privada.
 
    ![image alt](https://github.com/LP-04/Projects/blob/2e7629c48b701cd717bcebf4b4d8c78df21f4188/Imagenes/Distribuci%C3%B3n%20de%20Tipo%20de%20Habitaci%C3%B3n.png)
    
-- Las de tipo Habitación/Apt completo tienen un rango de precio de $60-$420, siendo las de $91-$125 más comunes.
+Las casas/apt completo y las habitaciones privadas tienen un rango de precio de $60-$420, habiendo mayormente con un rango de $91-$125 en el caso del primer tipo y con un rango de $60-$90 en el segundo tipo. Por otro lado las habitaciones de hotel y las compartidas son las menos ofrecidas en el mercado, mayormente con un rango de precios entre $90-$130 y $58-$59, respectivamente.
 
 3. Número de anuncios activos registrados por barrio:
    | Codigo Postal | No. Registros |
