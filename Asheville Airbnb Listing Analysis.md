@@ -11,8 +11,10 @@ Este proyecto tiene como proposito analizar el crecimiento o decaimiento en el u
 
 ### Análisis Descriptivo
 2. Los Airbnb se clasifican en 4 tipos: Habitación/Apt completo, Habitación de hotel, Habitación compartida y Habitación privada.
+
    ![Distribución de Tipo de Habitación]
    (Imagenes/Distribución de Tipo de Habitación.png)
+   
 - Las de tipo Habitación/Apt completo tienen un rango de precio de $60-$420, siendo las de $91-$125 más comunes.
 
 3. Número de anuncios activos registrados por barrio:
