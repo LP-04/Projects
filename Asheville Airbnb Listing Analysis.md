@@ -18,6 +18,7 @@ Este proyecto tiene como proposito analizar el crecimiento o decaimiento en el u
  Las casas/apt completo y las habitaciones privadas tienen un rango de precio de $60-$420, habiendo mayormente con un rango de $91-$125 en   el caso del primer tipo y con un rango de $60-$90 en el segundo tipo. Por otro lado las habitaciones de hotel y las compartidas son las     menos ofrecidas en el mercado, mayormente con un rango de precios entre $90-$130 y $58-$59, respectivamente.
 
 3. Número de anuncios activos registrados por barrio:
+   
    | Codigo Postal | No. Registros |
    |--------|---------------|
    |  28806 |      741      |
