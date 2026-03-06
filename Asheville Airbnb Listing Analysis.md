@@ -1,9 +1,11 @@
 # Analísis de Anuncios de Airbnb en Asheville
 
 ## Introducción:
-Este proyecto tiene como proposito analizar el crecimiento o decaimiento en el uso de Airbnb en el estado de Asheville, Carolina del norte, haciendo uso de 3 bases de datos (listings.csv, reviews.csv, neighbourhoods.csv), los cuales contienen información sobre precios, demanda, ect. Y herramientas como Python, SQL y Tableu para la limpieza, análisis estadístico y graficado de datos.
+Este proyecto tiene como proposito analizar el crecimiento o decaimiento en el uso de Airbnb en el estado de Asheville, Carolina del norte, haciendo uso de 3 bases de datos (listings.csv, reviews.csv, neighbourhoods.csv), los cuales contienen información sobre los precios, demanda, propietarios, ect. Y herramientas como Python y SQL para la limpieza, análisis estadístico y graficado.
 
 ## Objetivos:
+- Estudiar si Ashville es un buen mercado en expansion.
+- Analizar los tipos de Airbnb y vecindarios más activos.
 - 
 
 ### Preparación de Datos
