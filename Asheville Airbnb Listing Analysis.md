@@ -9,7 +9,11 @@ Este proyecto tiene como proposito analizar el crecimiento o decaimiento en el u
 - 
 
 ### Preparación de Datos
+En el archivo **listings.csv** se hallaron datos faltantes en columnas como:
+- **neibourhood_group** y **license**, donde los datos faltantes representaron el 100% de los datos por lo cual se categorizaron como columnas no necesarias y se eliminaron.
+- **price**, donde aunque solo el 12% de los datos era faltante, la columna es necesaria para nuestro analísis, por lo cual los datos faltantes fueron sustituidos por el valor de la mediana de esa misma columna, pues esta no es afectada por los outliers presentes.
 
+También hubieron columnas con outliers como **price** y **minimum_nights**, por lo cual se les aplico una Winsorización a ambas columnas de datos y por ultimo a la columna **last_review** se le cambio el formato de texto a fecha.
 
 ### Análisis Descriptivo
 1. Los Airbnb por noche tienen un precio promedio de $158 y una mediana (valor central entre todos los precios) de $128.
@@ -55,6 +59,9 @@ Este proyecto tiene como proposito analizar el crecimiento o decaimiento en el u
 ### Análisis de Propietarios
 - El 83% de los propietarios de Airbnb tiene 1 o 2 anuncios y del 17% restante solo una persona cuyo id es 167186184 tiene más de 50, más concretamente un total de 108 anuncios.
 
+
+### Recomendaciones
+- 
 
 
 
