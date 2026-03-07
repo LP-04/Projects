@@ -27,14 +27,14 @@ También hubieron columnas con outliers como **price** y **minimum_nights**, por
    
    | Codigo Postal | No. Registros |
    |--------|---------------|
-   |  28806 |      741      |
-   |  28801 |      564      |
-   |  28803 |      422      |
-   |  28804 |      364      |
-   |  28805 |      266      |
-   |  28704 |      181      |
-   |  28715 |       83      |
-   |  28732 |       73      |
+   |  28806 |      807      |
+   |  28801 |      594      |
+   |  28803 |      455      |
+   |  28804 |      379      |
+   |  28805 |      282      |
+   |  28704 |      191      |
+   |  28715 |       93      |
+   |  28732 |       75      |
 
 ### Información de Precios
 - El precio medio por noche de Airbnb por codigo postal tiene un rango que va desde $148 hasta $168, siendo el barrio con código postal no. 28732 el de mayor valor promedio en precio con un valor de $167,4.
