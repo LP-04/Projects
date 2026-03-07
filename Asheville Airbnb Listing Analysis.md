@@ -45,7 +45,7 @@ También hubieron columnas con outliers como **price** y **minimum_nights**, por
     |       28803    |     164.1    |
     |       28801    |     162.2    |
     |       28805    |     161.1    |
-    |       28804    |     160.7    |
+    |       28804    |     160.8    |
 
 
 ### Análisis de Reseña y Demanda
