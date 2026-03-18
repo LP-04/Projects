@@ -4,7 +4,7 @@
 Este proyecto tiene como proposito analizar el crecimiento o decaimiento en el uso de Airbnb en el estado de Asheville, Carolina del norte, haciendo uso de 2 bases de datos (listings.csv, reviews.csv), los cuales contienen información sobre los precios, demanda, propietarios, ect. Y herramientas como Python y SQL para la limpieza, análisis estadístico y graficado.
 
 ## Objetivos:
-- Analizar la tendencia de los precios a traves de los años.
+- Analizar la tendencia de los precios.
 - Estudiar los tipos de Airbnb, dueños y vecindarios más activos.
 - 
 
