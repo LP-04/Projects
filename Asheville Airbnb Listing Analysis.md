@@ -58,7 +58,15 @@ También hubieron columnas con outliers como **price** y **minimum_nights**, por
 
 ### Análisis de Propietarios
 - El 83% de los propietarios de Airbnb tiene 1 o 2 anuncios
-- La persona de id no. 167186184 tiene el mayor numero de anuncios, un total de 108 anuncios.
+- Top 5 de propietarios con mayor número de anuncios:
+
+   |     ID    |  No. anuncios |
+   |-----------|---------------|
+   | 167186184 |	   108       |
+   |  96187307	|      50       |
+   | 134903005	|    	46        |
+   |  121681645 |	 	31        |
+   |  242474849 |	   28       | 
 
 
 ### Recomendaciones
