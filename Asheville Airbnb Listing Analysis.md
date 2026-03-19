@@ -51,12 +51,12 @@ También hubieron columnas con outliers como **price** y **minimum_nights**, por
 ### Análisis de Reseña y Demanda
 - Número de reseñas por tipo de habitación:
   
- | Tipo de Habitación |	total |
- |--------------------|-------|
- |  Casa/apt Completo	 | 287038 |
- |   Habitación Privada	    | 29620 |
- |  Habitación Compartida 	    |  1587 |
- |  Habitación de Hotel 	    |  304  |
+   | Tipo de Habitación |	total |
+   |--------------------|-------|
+   |  Casa/apt Completo	 | 287038 |
+   |   Habitación Privada	    | 29620 |
+   |  Habitación Compartida 	    |  1587 |
+   |  Habitación de Hotel 	    |  304  |
 
 - Los anuncios **Basement: Mountainside Private Room & Private Bath** y **Perry's Home Studio South** tienen un total de 1448 y 1 reseñas, siendo el mayor y menor reseñado respectivamente.
 - El promedio de reseñas por mes es de aproximadamente 2, con algunos anuncios llegando a tener 2 hasta incluso 0 reseñas por mes.
