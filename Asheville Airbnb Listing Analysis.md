@@ -6,7 +6,7 @@ Este proyecto tiene como proposito analizar el crecimiento o decaimiento en el u
 ## Objetivos:
 - Analizar la tendencia de los precios.
 - Estudiar los tipos de Airbnb, dueños y vecindarios más activos.
-- 
+- Analizar que dice la actividad de reseñas sobre la demanda.
 
 ### Preparación de Datos
 En el archivo **listings.csv** se hallaron datos faltantes en columnas como:
@@ -66,8 +66,9 @@ También hubieron columnas con outliers como **price** y **minimum_nights**, por
    |  96187307	|      50       |
    | 134903005	|    	46        |
    |  121681645 |	 	31        |
-   |  242474849 |	   28       | 
-
+   |  242474849 |	   28       |
+  
+- El precio promedio entre propietarios con multiples anuncios varía mucho, en algunos casos, propietarios con pocos anuncios llegan a tener un precio promedio mucho mayor que el de propietarios con muchos anuncios y en otros, la situación es la contraria. Esto se debe a que algunos propietarios tienen pocas propiedades en barrios costosos, otros tienen propiedades con variados tipos de precio y otros tienen solo en barrios de precio bajo.
 
 ### Recomendaciones
 - 
